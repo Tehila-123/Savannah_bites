@@ -1,0 +1,39 @@
+{
+  "expo": {
+    "name": "Savannah Bites",
+    "slug": "savannah-bites",
+    "scheme": "savannahbites",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#1B3B2B"
+    },
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.savannahbites.app"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#1B3B2B"
+      },
+      "package": "com.savannahbites.app"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png",
+      "bundler": "metro"
+    },
+    "plugins": [
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "Allow Savannah Bites to access your photos to update your profile picture."
+        }
+      ]
+    ]
+  }
+}

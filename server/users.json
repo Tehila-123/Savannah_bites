@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1789992139056,
+    "name": "Ruzindana Tehila",
+    "email": "tehilaruzindana@gmail.com",
+    "phone": "+250 793899985",
+    "password": "tehila@micky",
+    "verified": true,
+    "createdAt": "2026-09-21T12:02:19.056Z"
+  },
+  {
+    "id": 1790600285618,
+    "name": "New Google User",
+    "email": "newuser@gmail.com",
+    "phone": "+234 809 111 2233",
+    "password": "google-oauth-newuser@gmail.com",
+    "verified": true,
+    "createdAt": "2026-09-28T12:58:05.618Z"
+  },
+  {
+    "id": 1790779262430,
+    "name": "Amara Okafor",
+    "email": "amara.oauth.test@gmail.com",
+    "phone": "",
+    "provider": "google",
+    "googleId": "google-sub-1",
+    "avatar": "https://example.com/amara.png",
+    "verified": true,
+    "createdAt": "2026-09-30T14:41:02.430Z",
+    "lastLoginAt": "2026-10-01T09:56:56.787Z"
+  },
+  {
+    "id": 1790848403117,
+    "name": "Amara Okafor",
+    "email": "amara.rw@example.co",
+    "phone": "+250 7881 234 56",
+    "password": "Nq7!vZ2kLm",
+    "provider": "password",
+    "verified": true,
+    "createdAt": "2026-10-01T09:53:23.117Z"
+  },
+  {
+    "id": 1790848529839,
+    "name": "Test User",
+    "email": "po4xijn@example.co",
+    "phone": "+250 722 123 456",
+    "password": "Nq7!vZ2kLm",
+    "provider": "password",
+    "verified": true,
+    "createdAt": "2026-10-01T09:55:29.839Z"
+  },
+  {
+    "id": 1790848529848,
+    "name": "Test User",
+    "email": "p477hbr@example.co",
+    "phone": "+250 733 123 456",
+    "password": "Nq7!vZ2kLm",
+    "provider": "password",
+    "verified": true,
+    "createdAt": "2026-10-01T09:55:29.848Z"
+  },
+  {
+    "id": 1790848529855,
+    "name": "Test User",
+    "email": "p3zaekz@example.co",
+    "phone": "+250 788 123 456",
+    "password": "Nq7!vZ2kLm",
+    "provider": "password",
+    "verified": true,
+    "createdAt": "2026-10-01T09:55:29.856Z"
+  },
+  {
+    "id": 1790848529867,
+    "name": "Test User",
+    "email": "pizbjqg@example.co",
+    "phone": "+250 799 123 456",
+    "password": "Nq7!vZ2kLm",
+    "provider": "password",
+    "verified": true,
+    "createdAt": "2026-10-01T09:55:29.867Z"
+  },
+  {
+    "id": 1790848529882,
+    "name": "Amara Okafor",
+    "email": "amara@example.co",
+    "phone": "+250 788 123 456",
+    "password": "Nq7!vZ2kLm",
+    "provider": "password",
+    "verified": true,
+    "createdAt": "2026-10-01T09:55:29.882Z"
+  }
+]

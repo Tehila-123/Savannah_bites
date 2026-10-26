@@ -1,0 +1,6 @@
+{
+  "scripts": {
+    "start": "node server.js",
+    "test": "node google-oauth.test.js && node register-validation.test.js"
+  }
+}
